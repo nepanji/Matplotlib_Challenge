@@ -2,7 +2,9 @@
 
 ## Assignment Overview
 The data used to complete the following analysis report was provided by Pymaceuticals Inc., a pharmaceutical company based out of San Diego specializing in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
-I have been given access to their complete data from their recent animal study were 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Tumor development was observed and measured over 45 days. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. My task is to generate all of the tables and figures needed for the technical report of the study, as well as, produce a top-level summary of the study results.
+I have been given access to their complete data from their recent animal study were 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Tumor development was observed and measured over 45 days. 
+
+The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. My task is to generate all of the tables and figures needed for the technical report of the study, as well as, produce a top-level summary of the study results.
 
 ## Observations and Insights
 *  An initial review of the Summary Statistics generated from the results of the study revealed that Pymaceuticals' drug of interest, Capomulin, and Ramicane performed better at reducing the tumor volume of the mice participating in the treatment regimens. In fact, Ramicane has a slightly lower tumor volume than Capomulin with a smaller standard error of the mean which indicates that Ramicane tumor volume mean is a more accurate estimate of the population mean.
